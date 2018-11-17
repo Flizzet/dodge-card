@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/flizzet/Documents/JavaWorkspace/DodgeCard/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="26.0.0"
+        sha1="b898b9d168335b3e35da0595927757dc21074118">
+        <dex dex="/Users/flizzet/Documents/JavaWorkspace/DodgeCard/android/build/intermediates/pre-dexed/debug/core-1.0_0e798b5834e8f83e44def0d247a396224cd8d0f2.jar" />
+    </item>
+
+</items>

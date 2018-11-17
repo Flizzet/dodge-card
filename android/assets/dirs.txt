@@ -1,0 +1,10 @@
+gui/joystick/background.png
+gui/joystick/stick.png
+items/card.png
+map/background.png
+pallettes/pallette_blue.png
+pallettes/pallette_red.png
+pallettes/test2.png
+player/back.png
+player/front.png
+player/healthpoint.png
